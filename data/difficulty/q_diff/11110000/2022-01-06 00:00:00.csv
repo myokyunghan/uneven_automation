@@ -1,0 +1,325 @@
+,ver,creationdate,id,result
+0,11110000,2022-01-06,70601191,"<Difficulty Level>1</Difficulty Level>
+"
+1,11110000,2022-01-06,70601191,"<Difficulty Level>1</Difficulty Level>
+"
+2,11110000,2022-01-06,70601191,"<Difficulty Level>1</Difficulty Level>
+"
+3,11110000,2022-01-06,70601191,"<Difficulty Level>1</Difficulty Level>
+"
+4,11110000,2022-01-06,70601191,"<Difficulty Level>1</Difficulty Level>
+"
+5,11110000,2022-01-06,70601359,"You're correct that `pd.read_csv` doesn't work because your data is not in a CSV format, but rather a list of lists.
+
+To convert this into a pandas DataFrame, you can use the `pd.DataFrame` constructor directly:
+
+```python
+import pandas as pd
+
+fields = [['p70S6K', 'p70S6K', 'RPS6KB1', 'Ribosomal protein S6 kinase beta-1', 'AGC', 'RSK', 'RS"
+6,11110000,2022-01-06,70601359,"You're correct that `pd.read_csv` doesn't work because your data is not in a CSV format, but rather a list of lists.
+
+To convert this into a pandas DataFrame, you can use the `pd.DataFrame` constructor directly:
+
+```python
+import pandas as pd
+
+fields = [['p70S6K', 'p70S6K', 'RPS6KB1', 'Ribosomal protein S6 kinase beta-1', 'AGC', 'RSK', 'RS"
+7,11110000,2022-01-06,70601359,"You're correct that `pd.read_csv` doesn't work because your data is not in a CSV format, but rather a list of lists.
+
+To convert this into a pandas DataFrame, you can use the `pd.DataFrame` constructor directly:
+
+```python
+import pandas as pd
+
+fields = [['p70S6K', 'p70S6K', 'RPS6KB1', 'Ribosomal protein S6 kinase beta-1', 'AGC', 'RSK', 'RS"
+8,11110000,2022-01-06,70601359,"You're correct that `pd.read_csv` doesn't work because your data is not in a CSV format, but rather a list of lists.
+
+To convert this into a pandas DataFrame, you can use the `pd.DataFrame` constructor directly:
+
+```python
+import pandas as pd
+
+fields = [['p70S6K', 'p70S6K', 'RPS6KB1', 'Ribosomal protein S6 kinase beta-1', 'AGC', 'RSK', 'RS"
+9,11110000,2022-01-06,70601359,"You're correct that `pd.read_csv` doesn't work because your data is not in a CSV format, but rather a list of lists.
+
+To convert this into a pandas DataFrame, you can use the `pd.DataFrame` constructor directly:
+
+```python
+import pandas as pd
+
+fields = [['p70S6K', 'p70S6K', 'RPS6KB1', 'Ribosomal protein S6 kinase beta-1', 'AGC', 'RSK', 'RS"
+10,11110000,2022-01-06,70601830,"<Difficulty Level>1</Difficulty Level>
+"
+11,11110000,2022-01-06,70601830,"<Difficulty Level>1</Difficulty Level>
+"
+12,11110000,2022-01-06,70601830,"<Difficulty Level>1</Difficulty Level>
+"
+13,11110000,2022-01-06,70601830,"<Difficulty Level>2</Difficulty Level>
+"
+14,11110000,2022-01-06,70601830,"<Difficulty Level>1</Difficulty Level>
+"
+15,11110000,2022-01-06,70601910,"<Difficulty Level>0</Difficulty Level>
+"
+16,11110000,2022-01-06,70601910,"<Difficulty Level>0</Difficulty Level>
+"
+17,11110000,2022-01-06,70601910,"<Difficulty Level>0</Difficulty Level>
+"
+18,11110000,2022-01-06,70601910,"<Difficulty Level>0</Difficulty Level>
+"
+19,11110000,2022-01-06,70601910,"<Difficulty Level>0</Difficulty Level>
+"
+20,11110000,2022-01-06,70602215,"<Difficulty Level>1</Difficulty Level>
+"
+21,11110000,2022-01-06,70602215,"<Difficulty Level>1</Difficulty Level>
+"
+22,11110000,2022-01-06,70602215,"<Difficulty Level>1</Difficulty Level>
+"
+23,11110000,2022-01-06,70602215,"<Difficulty Level>1</Difficulty Level>
+"
+24,11110000,2022-01-06,70602215,"<Difficulty Level>1</Difficulty Level>
+"
+25,11110000,2022-01-06,70602514,"<Difficulty Level>0</Difficulty Level>
+"
+26,11110000,2022-01-06,70602514,"<Difficulty Level>0</Difficulty Level>
+"
+27,11110000,2022-01-06,70602514,"<Difficulty Level>0</Difficulty Level>
+"
+28,11110000,2022-01-06,70602514,"<Difficulty Level>0</Difficulty Level>
+"
+29,11110000,2022-01-06,70602514,"<Difficulty Level>0</Difficulty Level>
+"
+30,11110000,2022-01-06,70603242,"<Difficulty Level>1</Difficulty Level>
+"
+31,11110000,2022-01-06,70603242,"<Difficulty Level>0</Difficulty Level>
+"
+32,11110000,2022-01-06,70603242,"<Difficulty Level>1</Difficulty Level>
+"
+33,11110000,2022-01-06,70603242,"<Difficulty Level>1</Difficulty Level>
+"
+34,11110000,2022-01-06,70603242,"<Difficulty Level>1</Difficulty Level>
+"
+35,11110000,2022-01-06,70604730,"<Difficulty Level>1</Difficulty Level>
+"
+36,11110000,2022-01-06,70604730,"<Difficulty Level>1</Difficulty Level>
+"
+37,11110000,2022-01-06,70604730,"<Difficulty Level>1</Difficulty Level>
+"
+38,11110000,2022-01-06,70604730,<Difficulty Level>2</Difficulty Level
+39,11110000,2022-01-06,70604730,<Difficulty Level>2</Difficulty Level
+40,11110000,2022-01-06,70605650,"<Difficulty Level>0</Difficulty Level>
+"
+41,11110000,2022-01-06,70605650,"<Difficulty Level>1</Difficulty Level>
+"
+42,11110000,2022-01-06,70605650,"<Difficulty Level>0</Difficulty Level>
+"
+43,11110000,2022-01-06,70605650,"<Difficulty Level>0</Difficulty Level>
+"
+44,11110000,2022-01-06,70605650,"<Difficulty Level>0</Difficulty Level>
+"
+45,11110000,2022-01-06,70606060,"<Difficulty Level>1</Difficulty Level>
+"
+46,11110000,2022-01-06,70606060,"<Difficulty Level>1</Difficulty Level>
+"
+47,11110000,2022-01-06,70606060,"<Difficulty Level>1</Difficulty Level>
+"
+48,11110000,2022-01-06,70606060,"<Difficulty Level>1</Difficulty Level>
+"
+49,11110000,2022-01-06,70606060,"<Difficulty Level>1</Difficulty Level>
+"
+50,11110000,2022-01-06,70606664,"<Difficulty Level>0</Difficulty Level>
+"
+51,11110000,2022-01-06,70606664,"<Difficulty Level>0</Difficulty Level>
+"
+52,11110000,2022-01-06,70606664,"<Difficulty Level>0</Difficulty Level>
+"
+53,11110000,2022-01-06,70606664,"<Difficulty Level>0</Difficulty Level>
+"
+54,11110000,2022-01-06,70606664,"<Difficulty Level>0</Difficulty Level>
+"
+55,11110000,2022-01-06,70607460,"<Difficulty Level>1</Difficulty Level>
+"
+56,11110000,2022-01-06,70607460,"<Difficulty Level>2</Difficulty Level>
+"
+57,11110000,2022-01-06,70607460,"<Difficulty Level>1</Difficulty Level>
+"
+58,11110000,2022-01-06,70607460,"<Difficulty Level>1</Difficulty Level>
+"
+59,11110000,2022-01-06,70607460,"<Difficulty Level>2</Difficulty Level>
+"
+60,11110000,2022-01-06,70608017,"<Difficulty Level>1</Difficulty Level>
+"
+61,11110000,2022-01-06,70608017,"<Difficulty Level>1</Difficulty Level>
+"
+62,11110000,2022-01-06,70608017,"<Difficulty Level>2</Difficulty Level>
+"
+63,11110000,2022-01-06,70608017,"<Difficulty Level>1</Difficulty Level>
+"
+64,11110000,2022-01-06,70608017,"<Difficulty Level>2</Difficulty Level>
+"
+65,11110000,2022-01-06,70608170,"<Difficulty Level>0</Difficulty Level>
+"
+66,11110000,2022-01-06,70608170,"<Difficulty Level>0</Difficulty Level>
+"
+67,11110000,2022-01-06,70608170,"<Difficulty Level>0</Difficulty Level>
+"
+68,11110000,2022-01-06,70608170,"<Difficulty Level>0</Difficulty Level>
+"
+69,11110000,2022-01-06,70608170,"<Difficulty Level>0</Difficulty Level>
+"
+70,11110000,2022-01-06,70608396,"<Difficulty Level>1</Difficulty Level>
+"
+71,11110000,2022-01-06,70608396,"<Difficulty Level>1</Difficulty Level>
+"
+72,11110000,2022-01-06,70608396,"<Difficulty Level>1</Difficulty Level>
+"
+73,11110000,2022-01-06,70608396,"<Difficulty Level>0</Difficulty Level>
+"
+74,11110000,2022-01-06,70608396,"<Difficulty Level>0</Difficulty Level>
+"
+75,11110000,2022-01-06,70609228,"<Difficulty Level>1</Difficulty Level>
+"
+76,11110000,2022-01-06,70609228,"<Difficulty Level>1</Difficulty Level>
+"
+77,11110000,2022-01-06,70609228,"<Difficulty Level>1</Difficulty Level>
+"
+78,11110000,2022-01-06,70609228,"<Difficulty Level>1</Difficulty Level>
+"
+79,11110000,2022-01-06,70609228,"<Difficulty Level>1</Difficulty Level>
+"
+80,11110000,2022-01-06,70609624,<Difficulty Level>2</Difficulty Level
+81,11110000,2022-01-06,70609624,
+82,11110000,2022-01-06,70609624,
+83,11110000,2022-01-06,70609624,"<Difficulty Level>1</Difficulty Level>
+"
+84,11110000,2022-01-06,70609624,"<Difficulty Level>1</Difficulty Level>
+"
+85,11110000,2022-01-06,70609935,"<Difficulty Level>2</Difficulty Level>
+"
+86,11110000,2022-01-06,70609935,"<Difficulty Level>1</Difficulty Level>
+"
+87,11110000,2022-01-06,70609935,"<Difficulty Level>1</Difficulty Level>
+"
+88,11110000,2022-01-06,70609935,"<Difficulty Level>1</Difficulty Level>
+"
+89,11110000,2022-01-06,70609935,"<Difficulty Level>1</Difficulty Level>
+"
+90,11110000,2022-01-06,70610001,"<Difficulty Level>0</Difficulty Level>
+"
+91,11110000,2022-01-06,70610001,"<Difficulty Level>0</Difficulty Level>
+"
+92,11110000,2022-01-06,70610001,"<Difficulty Level>0</Difficulty Level>
+"
+93,11110000,2022-01-06,70610001,"<Difficulty Level>0</Difficulty Level>
+"
+94,11110000,2022-01-06,70610001,"<Difficulty Level>0</Difficulty Level>
+"
+95,11110000,2022-01-06,70610197,"<Difficulty Level>2</Difficulty Level>
+"
+96,11110000,2022-01-06,70610197,"<Difficulty Level>2</Difficulty Level>
+"
+97,11110000,2022-01-06,70610197,"<Difficulty Level>2</Difficulty Level>
+"
+98,11110000,2022-01-06,70610197,"<Difficulty Level>2</Difficulty Level>
+"
+99,11110000,2022-01-06,70610197,"Let's break down the problem and analyze it step by step.
+
+1. The code provided is a Python class `BinanceFuturesClient` that appears to be a connector for interacting with the Binance Futures API.
+2. The error message indicates that the `_on_close` method of the `BinanceFuturesClient` class is being called with 4 arguments, but it only accepts 2 positional arguments.
+3. Looking at the code, we can see that the `_on_close`"
+100,11110000,2022-01-06,70610266,"<Difficulty Level>1</Difficulty Level>
+"
+101,11110000,2022-01-06,70610266,"<Difficulty Level>1</Difficulty Level>
+"
+102,11110000,2022-01-06,70610266,"<Difficulty Level>1</Difficulty Level>
+"
+103,11110000,2022-01-06,70610266,<Difficulty Level>1</Difficulty Level>
+104,11110000,2022-01-06,70610266,"<Difficulty Level>1</Difficulty Level>
+"
+105,11110000,2022-01-06,70610725,"<Difficulty Level>1</Difficulty Level>
+"
+106,11110000,2022-01-06,70610725,"<Difficulty Level>1</Difficulty Level>
+"
+107,11110000,2022-01-06,70610725,"<Difficulty Level>1</Difficulty Level>
+"
+108,11110000,2022-01-06,70610725,"<Difficulty Level>1</Difficulty Level>
+"
+109,11110000,2022-01-06,70610725,"<Difficulty Level>1</Difficulty Level>
+"
+110,11110000,2022-01-06,70611263,"<Difficulty Level>1</Difficulty Level>
+"
+111,11110000,2022-01-06,70611263,"<Difficulty Level>0</Difficulty Level>
+"
+112,11110000,2022-01-06,70611263,"<Difficulty Level>0</Difficulty Level>
+"
+113,11110000,2022-01-06,70611263,"<Difficulty Level>0</Difficulty Level>
+"
+114,11110000,2022-01-06,70611263,"<Difficulty Level>0</Difficulty Level>
+"
+115,11110000,2022-01-06,70612349,"<Difficulty Level>1</Difficulty Level>
+"
+116,11110000,2022-01-06,70612349,"<Difficulty Level>1</Difficulty Level>
+"
+117,11110000,2022-01-06,70612349,"<Difficulty Level>0</Difficulty Level>
+"
+118,11110000,2022-01-06,70612349,"<Difficulty Level>1</Difficulty Level>
+"
+119,11110000,2022-01-06,70612349,"<Difficulty Level>1</Difficulty Level>
+"
+120,11110000,2022-01-06,70612884,"<Difficulty Level>0</Difficulty Level>
+"
+121,11110000,2022-01-06,70612884,"<Difficulty Level>0</Difficulty Level>
+"
+122,11110000,2022-01-06,70612884,"<Difficulty Level>0</Difficulty Level>
+"
+123,11110000,2022-01-06,70612884,"<Difficulty Level>0</Difficulty Level>
+"
+124,11110000,2022-01-06,70612884,"<Difficulty Level>0</Difficulty Level>
+"
+125,11110000,2022-01-06,70613481,<Difficulty Level>1</Difficulty Level>
+126,11110000,2022-01-06,70613481,"<Difficulty Level>1</Difficulty Level>
+"
+127,11110000,2022-01-06,70613481,"<Difficulty Level>1</Difficulty Level>
+"
+128,11110000,2022-01-06,70613481,"<Difficulty Level>1</Difficulty Level>
+"
+129,11110000,2022-01-06,70613481,"<Difficulty Level>1</Difficulty Level>
+"
+130,11110000,2022-01-06,70613496,"<Difficulty Level>1</Difficulty Level>
+"
+131,11110000,2022-01-06,70613496,"<Difficulty Level>1</Difficulty Level>
+"
+132,11110000,2022-01-06,70613496,"<Difficulty Level>1</Difficulty Level>
+"
+133,11110000,2022-01-06,70613496,"<Difficulty Level>1</Difficulty Level>
+"
+134,11110000,2022-01-06,70613496,<Difficulty Level>1</Difficulty Level>
+135,11110000,2022-01-06,70613734,<Difficulty Level>1</Difficulty Level>
+136,11110000,2022-01-06,70613734,"<Difficulty Level>1</Difficulty Level>
+"
+137,11110000,2022-01-06,70613734,"<Difficulty Level>0</Difficulty Level>
+"
+138,11110000,2022-01-06,70613734,"<Difficulty Level>1</Difficulty Level>
+"
+139,11110000,2022-01-06,70613734,"<Difficulty Level>0</Difficulty Level>
+"
+140,11110000,2022-01-06,70613759,"<Difficulty Level>1</Difficulty Level>
+"
+141,11110000,2022-01-06,70613759,"<Difficulty Level>1</Difficulty Level>
+"
+142,11110000,2022-01-06,70613759,"<Difficulty Level>1</Difficulty Level>
+"
+143,11110000,2022-01-06,70613759,"<Difficulty Level>1</Difficulty Level>
+"
+144,11110000,2022-01-06,70613759,"<Difficulty Level>2</Difficulty Level>
+"
+145,11110000,2022-01-06,70614949,"<Difficulty Level>0</Difficulty Level>
+"
+146,11110000,2022-01-06,70614949,"<Difficulty Level>0</Difficulty Level>
+"
+147,11110000,2022-01-06,70614949,"<Difficulty Level>0</Difficulty Level>
+"
+148,11110000,2022-01-06,70614949,"<Difficulty Level>0</Difficulty Level>
+"
+149,11110000,2022-01-06,70614949,"<Difficulty Level>0</Difficulty Level>
+"

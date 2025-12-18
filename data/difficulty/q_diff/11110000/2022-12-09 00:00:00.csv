@@ -1,0 +1,305 @@
+,ver,creationdate,id,result
+0,11110000,2022-12-09,74737738,"<Difficulty Level>2</Difficulty Level>
+"
+1,11110000,2022-12-09,74737738,"<Difficulty Level>2</Difficulty Level>
+"
+2,11110000,2022-12-09,74737738,"Let's break down the question and analyze its components:
+
+1. The question involves using Python Cubes OLAP Framework, which is a specific library for building OLAP (Online Analytical Processing) applications.
+2. The user is trying to sum/avg a JSON column in a Postgres database, which requires understanding of how to work with JSON data in SQL and how to integrate it with the OLAP framework.
+3. The provided code snippet shows a complex JSON structure that defines dimensions, cubes,"
+3,11110000,2022-12-09,74737738,"<Difficulty Level>2</Difficulty Level>
+"
+4,11110000,2022-12-09,74737738,"Let's break down the question and analyze its components:
+
+1. The user is working with Python Cubes OLAP Framework, which is a specific library for building OLAP (Online Analytical Processing) applications.
+2. They are trying to sum/avg a JSON column in a Postgres database using this framework.
+3. The provided code snippet shows a complex JSON structure defining the dimensions, cubes, and aggregates for the OLAP application.
+4. The user is encountering an error related to an unknown"
+5,11110000,2022-12-09,74738342,"<Difficulty Level>1</Difficulty Level>
+"
+6,11110000,2022-12-09,74738342,"<Difficulty Level>1</Difficulty Level>
+"
+7,11110000,2022-12-09,74738342,"<Difficulty Level>1</Difficulty Level>
+"
+8,11110000,2022-12-09,74738342,"<Difficulty Level>1</Difficulty Level>
+"
+9,11110000,2022-12-09,74738342,"<Difficulty Level>1</Difficulty Level>
+"
+10,11110000,2022-12-09,74739365,"<Difficulty Level>1</Difficulty Level>
+"
+11,11110000,2022-12-09,74739365,"<Difficulty Level>1</Difficulty Level>
+"
+12,11110000,2022-12-09,74739365,"<Difficulty Level>0</Difficulty Level>
+"
+13,11110000,2022-12-09,74739365,"<Difficulty Level>0</Difficulty Level>
+"
+14,11110000,2022-12-09,74739365,"<Difficulty Level>0</Difficulty Level>
+"
+15,11110000,2022-12-09,74739394,"<Difficulty Level>0</Difficulty Level>
+"
+16,11110000,2022-12-09,74739394,"<Difficulty Level>0</Difficulty Level>
+"
+17,11110000,2022-12-09,74739394,"<Difficulty Level>0</Difficulty Level>
+"
+18,11110000,2022-12-09,74739394,"<Difficulty Level>0</Difficulty Level>
+"
+19,11110000,2022-12-09,74739394,"<Difficulty Level>0</Difficulty Level>
+"
+20,11110000,2022-12-09,74739877,"<Difficulty Level>1</Difficulty Level>
+"
+21,11110000,2022-12-09,74739877,"<Difficulty Level>1</Difficulty Level>
+"
+22,11110000,2022-12-09,74739877,"<Difficulty Level>1</Difficulty Level>
+"
+23,11110000,2022-12-09,74739877,"<Difficulty Level>1</Difficulty Level>
+"
+24,11110000,2022-12-09,74739877,"<Difficulty Level>1</Difficulty Level>
+"
+25,11110000,2022-12-09,74739932,"<Difficulty Level>1</Difficulty Level>
+"
+26,11110000,2022-12-09,74739932,"<Difficulty Level>1</Difficulty Level>
+"
+27,11110000,2022-12-09,74739932,"<Difficulty Level>1</Difficulty Level>
+"
+28,11110000,2022-12-09,74739932,<Difficulty Level>1</Difficulty Level>
+29,11110000,2022-12-09,74739932,"<Difficulty Level>1</Difficulty Level>
+"
+30,11110000,2022-12-09,74740007,"<Difficulty Level>1</Difficulty Level>
+"
+31,11110000,2022-12-09,74740007,"<Difficulty Level>1</Difficulty Level>
+"
+32,11110000,2022-12-09,74740007,"<Difficulty Level>1</Difficulty Level>
+"
+33,11110000,2022-12-09,74740007,"<Difficulty Level>1</Difficulty Level>
+"
+34,11110000,2022-12-09,74740007,"<Difficulty Level>1</Difficulty Level>
+"
+35,11110000,2022-12-09,74740099,"<Difficulty Level>0</Difficulty Level>
+"
+36,11110000,2022-12-09,74740099,"<Difficulty Level>0</Difficulty Level>
+"
+37,11110000,2022-12-09,74740099,"<Difficulty Level>0</Difficulty Level>
+"
+38,11110000,2022-12-09,74740099,"<Difficulty Level>0</Difficulty Level>
+"
+39,11110000,2022-12-09,74740099,"<Difficulty Level>0</Difficulty Level>
+"
+40,11110000,2022-12-09,74740425,"<Difficulty Level>1</Difficulty Level>
+"
+41,11110000,2022-12-09,74740425,"<Difficulty Level>1</Difficulty Level>
+"
+42,11110000,2022-12-09,74740425,"<Difficulty Level>1</Difficulty Level>
+"
+43,11110000,2022-12-09,74740425,"<Difficulty Level>1</Difficulty Level>
+"
+44,11110000,2022-12-09,74740425,"<Difficulty Level>1</Difficulty Level>
+"
+45,11110000,2022-12-09,74740437,"<Difficulty Level>1</Difficulty Level>
+"
+46,11110000,2022-12-09,74740437,"<Difficulty Level>1</Difficulty Level>
+"
+47,11110000,2022-12-09,74740437,"<Difficulty Level>1</Difficulty Level>
+"
+48,11110000,2022-12-09,74740437,"<Difficulty Level>1</Difficulty Level>
+"
+49,11110000,2022-12-09,74740437,"<Difficulty Level>1</Difficulty Level>
+"
+50,11110000,2022-12-09,74741473,"<Difficulty Level>1</Difficulty Level>
+"
+51,11110000,2022-12-09,74741473,<Difficulty Level>2</Difficulty Level
+52,11110000,2022-12-09,74741473,"<Difficulty Level>1</Difficulty Level>
+"
+53,11110000,2022-12-09,74741473,"<Difficulty Level>1</Difficulty Level>
+"
+54,11110000,2022-12-09,74741473,<Difficulty Level>2</Difficulty Level
+55,11110000,2022-12-09,74741480,"<Difficulty Level>0</Difficulty Level>
+"
+56,11110000,2022-12-09,74741480,"<Difficulty Level>0</Difficulty Level>
+"
+57,11110000,2022-12-09,74741480,"<Difficulty Level>0</Difficulty Level>
+"
+58,11110000,2022-12-09,74741480,"<Difficulty Level>2</Difficulty Level>
+"
+59,11110000,2022-12-09,74741480,"<Difficulty Level>0</Difficulty Level>
+"
+60,11110000,2022-12-09,74742626,"<Difficulty Level>1</Difficulty Level>
+"
+61,11110000,2022-12-09,74742626,"<Difficulty Level>1</Difficulty Level>
+"
+62,11110000,2022-12-09,74742626,"<Difficulty Level>1</Difficulty Level>
+"
+63,11110000,2022-12-09,74742626,"<Difficulty Level>1</Difficulty Level>
+"
+64,11110000,2022-12-09,74742626,"<Difficulty Level>1</Difficulty Level>
+"
+65,11110000,2022-12-09,74743645,"<Difficulty Level>1</Difficulty Level>
+"
+66,11110000,2022-12-09,74743645,"<Difficulty Level>1</Difficulty Level>
+"
+67,11110000,2022-12-09,74743645,"<Difficulty Level>1</Difficulty Level>
+"
+68,11110000,2022-12-09,74743645,"<Difficulty Level>1</Difficulty Level>
+"
+69,11110000,2022-12-09,74743645,"<Difficulty Level>1</Difficulty Level>
+"
+70,11110000,2022-12-09,74743966,"<Difficulty Level>0</Difficulty Level>
+"
+71,11110000,2022-12-09,74743966,"<Difficulty Level>1</Difficulty Level>
+"
+72,11110000,2022-12-09,74743966,"<Difficulty Level>1</Difficulty Level>
+"
+73,11110000,2022-12-09,74743966,"<Difficulty Level>1</Difficulty Level>
+"
+74,11110000,2022-12-09,74743966,"<Difficulty Level>1</Difficulty Level>
+"
+75,11110000,2022-12-09,74743998,"<Difficulty Level>1</Difficulty Level>
+"
+76,11110000,2022-12-09,74743998,"<Difficulty Level>1</Difficulty Level>
+"
+77,11110000,2022-12-09,74743998,"<Difficulty Level>1</Difficulty Level>
+"
+78,11110000,2022-12-09,74743998,"<Difficulty Level>1</Difficulty Level>
+"
+79,11110000,2022-12-09,74743998,"<Difficulty Level>1</Difficulty Level>
+"
+80,11110000,2022-12-09,74744562,"<Difficulty Level>1</Difficulty Level>
+"
+81,11110000,2022-12-09,74744562,"<Difficulty Level>1</Difficulty Level>
+"
+82,11110000,2022-12-09,74744562,"<Difficulty Level>1</Difficulty Level>
+"
+83,11110000,2022-12-09,74744562,"<Difficulty Level>1</Difficulty Level>
+"
+84,11110000,2022-12-09,74744562,"<Difficulty Level>1</Difficulty Level>
+"
+85,11110000,2022-12-09,74745513,"<Difficulty Level>1</Difficulty Level>
+"
+86,11110000,2022-12-09,74745513,"<Difficulty Level>1</Difficulty Level>
+"
+87,11110000,2022-12-09,74745513,"<Difficulty Level>1</Difficulty Level>
+"
+88,11110000,2022-12-09,74745513,
+89,11110000,2022-12-09,74745513,"<Difficulty Level>1</Difficulty Level>
+"
+90,11110000,2022-12-09,74745576,"<Difficulty Level>0</Difficulty Level>
+"
+91,11110000,2022-12-09,74745576,"<Difficulty Level>0</Difficulty Level>
+"
+92,11110000,2022-12-09,74745576,"<Difficulty Level>0</Difficulty Level>
+"
+93,11110000,2022-12-09,74745576,"<Difficulty Level>0</Difficulty Level>
+"
+94,11110000,2022-12-09,74745576,"<Difficulty Level>0</Difficulty Level>
+"
+95,11110000,2022-12-09,74745953,"<Difficulty Level>0</Difficulty Level>
+"
+96,11110000,2022-12-09,74745953,"<Difficulty Level>0</Difficulty Level>
+"
+97,11110000,2022-12-09,74745953,"<Difficulty Level>0</Difficulty Level>
+"
+98,11110000,2022-12-09,74745953,"<Difficulty Level>0</Difficulty Level>
+"
+99,11110000,2022-12-09,74745953,"<Difficulty Level>0</Difficulty Level>
+"
+100,11110000,2022-12-09,74746597,"<Difficulty Level>2</Difficulty Level>
+"
+101,11110000,2022-12-09,74746597,"<Difficulty Level>1</Difficulty Level>
+"
+102,11110000,2022-12-09,74746597,"<Difficulty Level>2</Difficulty Level>
+"
+103,11110000,2022-12-09,74746597,"<Difficulty Level>1</Difficulty Level>
+"
+104,11110000,2022-12-09,74746597,"<Difficulty Level>2</Difficulty Level>
+"
+105,11110000,2022-12-09,74746840,"<Difficulty Level>1</Difficulty Level>
+"
+106,11110000,2022-12-09,74746840,"<Difficulty Level>1</Difficulty Level>
+"
+107,11110000,2022-12-09,74746840,"<Difficulty Level>1</Difficulty Level>
+"
+108,11110000,2022-12-09,74746840,"<Difficulty Level>1</Difficulty Level>
+"
+109,11110000,2022-12-09,74746840,"<Difficulty Level>1</Difficulty Level>
+"
+110,11110000,2022-12-09,74746941,"<Difficulty Level>0</Difficulty Level>
+"
+111,11110000,2022-12-09,74746941,"<Difficulty Level>0</Difficulty Level>
+"
+112,11110000,2022-12-09,74746941,"<Difficulty Level>0</Difficulty Level>
+"
+113,11110000,2022-12-09,74746941,"<Difficulty Level>0</Difficulty Level>
+"
+114,11110000,2022-12-09,74746941,"<Difficulty Level>1</Difficulty Level>
+"
+115,11110000,2022-12-09,74746991,"<Difficulty Level>2</Difficulty Level>
+"
+116,11110000,2022-12-09,74746991,"<Difficulty Level>1</Difficulty Level>
+"
+117,11110000,2022-12-09,74746991,<Difficulty Level>2</Difficulty Level
+118,11110000,2022-12-09,74746991,"<Difficulty Level>1</Difficulty Level>
+"
+119,11110000,2022-12-09,74746991,<Difficulty Level>2</Difficulty Level
+120,11110000,2022-12-09,74747024,"<Difficulty Level>0</Difficulty Level>
+"
+121,11110000,2022-12-09,74747024,"<Difficulty Level>0</Difficulty Level>
+"
+122,11110000,2022-12-09,74747024,"<Difficulty Level>0</Difficulty Level>
+"
+123,11110000,2022-12-09,74747024,"<Difficulty Level>0</Difficulty Level>
+"
+124,11110000,2022-12-09,74747024,"<Difficulty Level>0</Difficulty Level>
+"
+125,11110000,2022-12-09,74747280,"<Difficulty Level>1</Difficulty Level>
+"
+126,11110000,2022-12-09,74747280,"<Difficulty Level>1</Difficulty Level>
+"
+127,11110000,2022-12-09,74747280,"<Difficulty Level>1</Difficulty Level>
+"
+128,11110000,2022-12-09,74747280,"<Difficulty Level>1</Difficulty Level>
+"
+129,11110000,2022-12-09,74747280,"<Difficulty Level>1</Difficulty Level>
+"
+130,11110000,2022-12-09,74747649,"<Difficulty Level>1</Difficulty Level>
+"
+131,11110000,2022-12-09,74747649,"<Difficulty Level>1</Difficulty Level>
+"
+132,11110000,2022-12-09,74747649,"<Difficulty Level>0</Difficulty Level>
+"
+133,11110000,2022-12-09,74747649,"<Difficulty Level>0</Difficulty Level>
+"
+134,11110000,2022-12-09,74747649,"<Difficulty Level>0</Difficulty Level>
+"
+135,11110000,2022-12-09,74748204,"<Difficulty Level>1</Difficulty Level>
+"
+136,11110000,2022-12-09,74748204,"<Difficulty Level>1</Difficulty Level>
+"
+137,11110000,2022-12-09,74748204,"<Difficulty Level>1</Difficulty Level>
+"
+138,11110000,2022-12-09,74748204,<Difficulty Level>1</Difficulty Level>
+139,11110000,2022-12-09,74748204,"<Difficulty Level>1</Difficulty Level>
+"
+140,11110000,2022-12-09,74748303,"<Difficulty Level>2</Difficulty Level>
+"
+141,11110000,2022-12-09,74748303,"<Difficulty Level>2</Difficulty Level>
+"
+142,11110000,2022-12-09,74748303,"<Difficulty Level>2</Difficulty Level>
+"
+143,11110000,2022-12-09,74748303,"Let's break down the question into its components and analyze each part:
+
+1. The user is trying to understand how to use TensorFlow's `compute_output_shape` function to trace the sizes of feature maps in deep nets.
+2. They are using a custom model built with the Functional API, which consists of multiple blocks and layers.
+3. They have written a function `feature_map_info2` to scan through the model and print the output shape of each layer.
+4. However, they are encountering"
+144,11110000,2022-12-09,74748303,"<Difficulty Level>2</Difficulty Level>
+"
+145,11110000,2022-12-09,74749305,"<Difficulty Level>1</Difficulty Level>
+"
+146,11110000,2022-12-09,74749305,"<Difficulty Level>1</Difficulty Level>
+"
+147,11110000,2022-12-09,74749305,"<Difficulty Level>1</Difficulty Level>
+"
+148,11110000,2022-12-09,74749305,"<Difficulty Level>1</Difficulty Level>
+"
+149,11110000,2022-12-09,74749305,"<Difficulty Level>1</Difficulty Level>
+"

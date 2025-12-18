@@ -1,6 +1,5 @@
 *config*
 *.pt
-*.csv
 *.pyc
 *venv_stackoverflow_src*
 *runs*

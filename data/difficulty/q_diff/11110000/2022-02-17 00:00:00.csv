@@ -1,0 +1,309 @@
+,ver,creationdate,id,result
+0,11110000,2022-02-17,71151040,"<Difficulty Level>1</Difficulty Level>
+"
+1,11110000,2022-02-17,71151040,"<Difficulty Level>1</Difficulty Level>
+"
+2,11110000,2022-02-17,71151040,"<Difficulty Level>1</Difficulty Level>
+"
+3,11110000,2022-02-17,71151040,"<Difficulty Level>1</Difficulty Level>
+"
+4,11110000,2022-02-17,71151040,"<Difficulty Level>1</Difficulty Level>
+"
+5,11110000,2022-02-17,71151560,"<Difficulty Level>2</Difficulty Level>
+"
+6,11110000,2022-02-17,71151560,
+7,11110000,2022-02-17,71151560,
+8,11110000,2022-02-17,71151560,"<Difficulty Level>2</Difficulty Level>
+"
+9,11110000,2022-02-17,71151560,"<Difficulty Level>2</Difficulty Level>
+"
+10,11110000,2022-02-17,71152491,<Difficulty Level>1</Difficulty Level>
+11,11110000,2022-02-17,71152491,"<Difficulty Level>1</Difficulty Level>
+"
+12,11110000,2022-02-17,71152491,"<Difficulty Level>0</Difficulty Level>
+"
+13,11110000,2022-02-17,71152491,"<Difficulty Level>1</Difficulty Level>
+"
+14,11110000,2022-02-17,71152491,"<Difficulty Level>1</Difficulty Level>
+"
+15,11110000,2022-02-17,71152715,"<Difficulty Level>2</Difficulty Level>
+"
+16,11110000,2022-02-17,71152715,"<Difficulty Level>2</Difficulty Level>
+"
+17,11110000,2022-02-17,71152715,"<Difficulty Level>2</Difficulty Level>
+"
+18,11110000,2022-02-17,71152715,"<Difficulty Level>2</Difficulty Level>
+"
+19,11110000,2022-02-17,71152715,"<Difficulty Level>2</Difficulty Level>
+"
+20,11110000,2022-02-17,71153401,"To click on an element with Selenium WebDriver, you can use various methods like `find_element_by_class_name()`, `find_element_by_xpath()`, etc.
+
+However, in your case, it seems that the elements are not directly accessible due to the complex structure of the HTML. The elements are inside other elements and have multiple classes.
+
+Here's a step-by-step approach you can try:
+
+1. **Use a more specific XPath**: Instead of using `find_element_by_xpath()` with a long XPath"
+21,11110000,2022-02-17,71153401,"To click on an element with Selenium WebDriver, you can use various methods like `find_element_by_class_name()`, `find_element_by_xpath()`, etc.
+
+However, in your case, it seems that the elements are not directly accessible due to their complex structure and nested classes. Here's a step-by-step approach to help you click on the notification bell icon:
+
+1.  **Use a more specific XPath**: Instead of using `find_element_by_class_name()`, try using `find_element_by"
+22,11110000,2022-02-17,71153401,"To click on an element with Selenium WebDriver, you can use various methods like `find_element_by_class_name()`, `find_element_by_xpath()`, etc.
+
+However, in your case, it seems that the elements are not directly accessible due to their complex structure and nested classes. Here's a step-by-step approach to help you click on the notification bell icon:
+
+1.  **Use a more specific XPath**: Instead of using `find_element_by_class_name()`, try using `find_element_by"
+23,11110000,2022-02-17,71153401,"To click on an element with Selenium WebDriver, you can use various methods like `find_element_by_class_name()`, `find_element_by_xpath()`, etc.
+
+However, in your case, it seems that the elements are not directly accessible due to their complex structure and nested classes. Here's a step-by-step approach to help you click on the notification bell icon:
+
+1.  **Use a more specific XPath**: Instead of using `find_element_by_class_name()`, try using `find_element_by"
+24,11110000,2022-02-17,71153401,"To click on an element with Selenium WebDriver, you can use various methods like `find_element_by_class_name()`, `find_element_by_xpath()`, etc.
+
+However, in your case, it seems that the elements are not directly accessible due to their complex structure and nested classes. Here's a step-by-step approach to help you click on the notification bell icon:
+
+1.  **Use a more specific XPath**: Instead of using `find_element_by_class_name()`, try using `find_element_by"
+25,11110000,2022-02-17,71153440,"<Difficulty Level>1</Difficulty Level>
+"
+26,11110000,2022-02-17,71153440,"<Difficulty Level>1</Difficulty Level>
+"
+27,11110000,2022-02-17,71153440,"<Difficulty Level>1</Difficulty Level>
+"
+28,11110000,2022-02-17,71153440,"<Difficulty Level>1</Difficulty Level>
+"
+29,11110000,2022-02-17,71153440,"<Difficulty Level>1</Difficulty Level>
+"
+30,11110000,2022-02-17,71153483,"<Difficulty Level>2</Difficulty Level>
+"
+31,11110000,2022-02-17,71153483,"<Difficulty Level>2</Difficulty Level>
+"
+32,11110000,2022-02-17,71153483,"<Difficulty Level>2</Difficulty Level>
+"
+33,11110000,2022-02-17,71153483,"<Difficulty Level>2</Difficulty Level>
+"
+34,11110000,2022-02-17,71153483,"<Difficulty Level>2</Difficulty Level>
+"
+35,11110000,2022-02-17,71154386,"<Difficulty Level>0</Difficulty Level>
+"
+36,11110000,2022-02-17,71154386,"<Difficulty Level>0</Difficulty Level>
+"
+37,11110000,2022-02-17,71154386,"<Difficulty Level>0</Difficulty Level>
+"
+38,11110000,2022-02-17,71154386,"<Difficulty Level>1</Difficulty Level>
+"
+39,11110000,2022-02-17,71154386,"<Difficulty Level>0</Difficulty Level>
+"
+40,11110000,2022-02-17,71158330,"<Difficulty Level>0</Difficulty Level>
+"
+41,11110000,2022-02-17,71158330,"<Difficulty Level>0</Difficulty Level>
+"
+42,11110000,2022-02-17,71158330,"<Difficulty Level>0</Difficulty Level>
+"
+43,11110000,2022-02-17,71158330,"<Difficulty Level>0</Difficulty Level>
+"
+44,11110000,2022-02-17,71158330,"<Difficulty Level>0</Difficulty Level>
+"
+45,11110000,2022-02-17,71158607,<Difficulty Level>2</Difficulty Level
+46,11110000,2022-02-17,71158607,"<Difficulty Level>2</Difficulty Level>
+"
+47,11110000,2022-02-17,71158607,"<Difficulty Level>2</Difficulty Level>
+"
+48,11110000,2022-02-17,71158607,"<Difficulty Level>2</Difficulty Level>
+"
+49,11110000,2022-02-17,71158607,<Difficulty Level>2</Difficulty Level>
+50,11110000,2022-02-17,71158908,"<Difficulty Level>1</Difficulty Level>
+"
+51,11110000,2022-02-17,71158908,"<Difficulty Level>1</Difficulty Level>
+"
+52,11110000,2022-02-17,71158908,"<Difficulty Level>1</Difficulty Level>
+"
+53,11110000,2022-02-17,71158908,"<Difficulty Level>1</Difficulty Level>
+"
+54,11110000,2022-02-17,71158908,"<Difficulty Level>1</Difficulty Level>
+"
+55,11110000,2022-02-17,71159237,"<Difficulty Level>1</Difficulty Level>
+"
+56,11110000,2022-02-17,71159237,"<Difficulty Level>1</Difficulty Level>
+"
+57,11110000,2022-02-17,71159237,"<Difficulty Level>1</Difficulty Level>
+"
+58,11110000,2022-02-17,71159237,"<Difficulty Level>1</Difficulty Level>
+"
+59,11110000,2022-02-17,71159237,"<Difficulty Level>1</Difficulty Level>
+"
+60,11110000,2022-02-17,71159794,"<Difficulty Level>2</Difficulty Level>
+"
+61,11110000,2022-02-17,71159794,"<Difficulty Level>2</Difficulty Level>
+"
+62,11110000,2022-02-17,71159794,"<Difficulty Level>2</Difficulty Level>
+"
+63,11110000,2022-02-17,71159794,"<Difficulty Level>2</Difficulty Level>
+"
+64,11110000,2022-02-17,71159794,"<Difficulty Level>2</Difficulty Level>
+"
+65,11110000,2022-02-17,71160539,"<Difficulty Level>2</Difficulty Level>
+"
+66,11110000,2022-02-17,71160539,"<Difficulty Level>2</Difficulty Level>
+"
+67,11110000,2022-02-17,71160539,"<Difficulty Level>2</Difficulty Level>
+"
+68,11110000,2022-02-17,71160539,"<Difficulty Level>2</Difficulty Level>
+"
+69,11110000,2022-02-17,71160539,"<Difficulty Level>2</Difficulty Level>
+"
+70,11110000,2022-02-17,71160692,"<Difficulty Level>1</Difficulty Level>
+"
+71,11110000,2022-02-17,71160692,"<Difficulty Level>1</Difficulty Level>
+"
+72,11110000,2022-02-17,71160692,"<Difficulty Level>1</Difficulty Level>
+"
+73,11110000,2022-02-17,71160692,"<Difficulty Level>1</Difficulty Level>
+"
+74,11110000,2022-02-17,71160692,"<Difficulty Level>1</Difficulty Level>
+"
+75,11110000,2022-02-17,71160702,"<Difficulty Level>1</Difficulty Level>
+"
+76,11110000,2022-02-17,71160702,"<Difficulty Level>1</Difficulty Level>
+"
+77,11110000,2022-02-17,71160702,"<Difficulty Level>1</Difficulty Level>
+"
+78,11110000,2022-02-17,71160702,"<Difficulty Level>1</Difficulty Level>
+"
+79,11110000,2022-02-17,71160702,"<Difficulty Level>1</Difficulty Level>
+"
+80,11110000,2022-02-17,71161486,<Difficulty Level>1</Difficulty Level>
+81,11110000,2022-02-17,71161486,"<Difficulty Level>1</Difficulty Level>
+"
+82,11110000,2022-02-17,71161486,"<Difficulty Level>1</Difficulty Level>
+"
+83,11110000,2022-02-17,71161486,"<Difficulty Level>1</Difficulty Level>
+"
+84,11110000,2022-02-17,71161486,"<Difficulty Level>1</Difficulty Level>
+"
+85,11110000,2022-02-17,71162010,"<Difficulty Level>0</Difficulty Level>
+"
+86,11110000,2022-02-17,71162010,"<Difficulty Level>0</Difficulty Level>
+"
+87,11110000,2022-02-17,71162010,"<Difficulty Level>0</Difficulty Level>
+"
+88,11110000,2022-02-17,71162010,"<Difficulty Level>0</Difficulty Level>
+"
+89,11110000,2022-02-17,71162010,"<Difficulty Level>0</Difficulty Level>
+"
+90,11110000,2022-02-17,71162045,"<Difficulty Level>0</Difficulty Level>
+"
+91,11110000,2022-02-17,71162045,"<Difficulty Level>0</Difficulty Level>
+"
+92,11110000,2022-02-17,71162045,"<Difficulty Level>0</Difficulty Level>
+"
+93,11110000,2022-02-17,71162045,"<Difficulty Level>0</Difficulty Level>
+"
+94,11110000,2022-02-17,71162045,"<Difficulty Level>0</Difficulty Level>
+"
+95,11110000,2022-02-17,71162672,"<Difficulty Level>1</Difficulty Level>
+"
+96,11110000,2022-02-17,71162672,"<Difficulty Level>1</Difficulty Level>
+"
+97,11110000,2022-02-17,71162672,"<Difficulty Level>1</Difficulty Level>
+"
+98,11110000,2022-02-17,71162672,"<Difficulty Level>1</Difficulty Level>
+"
+99,11110000,2022-02-17,71162672,<Difficulty Level>2</Difficulty Level
+100,11110000,2022-02-17,71162785,"<Difficulty Level>0</Difficulty Level>
+"
+101,11110000,2022-02-17,71162785,"<Difficulty Level>0</Difficulty Level>
+"
+102,11110000,2022-02-17,71162785,"<Difficulty Level>2</Difficulty Level>
+"
+103,11110000,2022-02-17,71162785,"<Difficulty Level>0</Difficulty Level>
+"
+104,11110000,2022-02-17,71162785,"<Difficulty Level>1</Difficulty Level>
+"
+105,11110000,2022-02-17,71163673,"<Difficulty Level>0</Difficulty Level>
+"
+106,11110000,2022-02-17,71163673,"<Difficulty Level>0</Difficulty Level>
+"
+107,11110000,2022-02-17,71163673,"<Difficulty Level>0</Difficulty Level>
+"
+108,11110000,2022-02-17,71163673,
+109,11110000,2022-02-17,71163673,"<Difficulty Level>0</Difficulty Level>
+"
+110,11110000,2022-02-17,71164014,"<Difficulty Level>1</Difficulty Level>
+"
+111,11110000,2022-02-17,71164014,"<Difficulty Level>1</Difficulty Level>
+"
+112,11110000,2022-02-17,71164014,"<Difficulty Level>1</Difficulty Level>
+"
+113,11110000,2022-02-17,71164014,"<Difficulty Level>1</Difficulty Level>
+"
+114,11110000,2022-02-17,71164014,"<Difficulty Level>1</Difficulty Level>
+"
+115,11110000,2022-02-17,71165018,"<Difficulty Level>0</Difficulty Level>
+"
+116,11110000,2022-02-17,71165018,"<Difficulty Level>1</Difficulty Level>
+"
+117,11110000,2022-02-17,71165018,"<Difficulty Level>1</Difficulty Level>
+"
+118,11110000,2022-02-17,71165018,"<Difficulty Level>0</Difficulty Level>
+"
+119,11110000,2022-02-17,71165018,"<Difficulty Level>0</Difficulty Level>
+"
+120,11110000,2022-02-17,71165471,<Difficulty Level>1</Difficulty Level>
+121,11110000,2022-02-17,71165471,"<Difficulty Level>1</Difficulty Level>
+"
+122,11110000,2022-02-17,71165471,"<Difficulty Level>1</Difficulty Level>
+"
+123,11110000,2022-02-17,71165471,"<Difficulty Level>1</Difficulty Level>
+"
+124,11110000,2022-02-17,71165471,"<Difficulty Level>1</Difficulty Level>
+"
+125,11110000,2022-02-17,71165663,"<Difficulty Level>0</Difficulty Level>
+"
+126,11110000,2022-02-17,71165663,"<Difficulty Level>0</Difficulty Level>
+"
+127,11110000,2022-02-17,71165663,"<Difficulty Level>0</Difficulty Level>
+"
+128,11110000,2022-02-17,71165663,"<Difficulty Level>0</Difficulty Level>
+"
+129,11110000,2022-02-17,71165663,"<Difficulty Level>0</Difficulty Level>
+"
+130,11110000,2022-02-17,71165736,"<Difficulty Level>2</Difficulty Level>
+"
+131,11110000,2022-02-17,71165736,"<Difficulty Level>2</Difficulty Level>
+"
+132,11110000,2022-02-17,71165736,"<Difficulty Level>2</Difficulty Level>
+"
+133,11110000,2022-02-17,71165736,"<Difficulty Level>2</Difficulty Level>
+"
+134,11110000,2022-02-17,71165736,"<Difficulty Level>2</Difficulty Level>
+"
+135,11110000,2022-02-17,71165864,"<Difficulty Level>1</Difficulty Level>
+"
+136,11110000,2022-02-17,71165864,"<Difficulty Level>1</Difficulty Level>
+"
+137,11110000,2022-02-17,71165864,"<Difficulty Level>1</Difficulty Level>
+"
+138,11110000,2022-02-17,71165864,"<Difficulty Level>1</Difficulty Level>
+"
+139,11110000,2022-02-17,71165864,"<Difficulty Level>1</Difficulty Level>
+"
+140,11110000,2022-02-17,71166288,"<Difficulty Level>0</Difficulty Level>
+"
+141,11110000,2022-02-17,71166288,"<Difficulty Level>1</Difficulty Level>
+"
+142,11110000,2022-02-17,71166288,"<Difficulty Level>1</Difficulty Level>
+"
+143,11110000,2022-02-17,71166288,"<Difficulty Level>1</Difficulty Level>
+"
+144,11110000,2022-02-17,71166288,"<Difficulty Level>1</Difficulty Level>
+"
+145,11110000,2022-02-17,71166624,"<Difficulty Level>0</Difficulty Level>
+"
+146,11110000,2022-02-17,71166624,"<Difficulty Level>0</Difficulty Level>
+"
+147,11110000,2022-02-17,71166624,"<Difficulty Level>1</Difficulty Level>
+"
+148,11110000,2022-02-17,71166624,"<Difficulty Level>0</Difficulty Level>
+"
+149,11110000,2022-02-17,71166624,"<Difficulty Level>1</Difficulty Level>
+"

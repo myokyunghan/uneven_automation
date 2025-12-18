@@ -1,0 +1,318 @@
+,ver,creationdate,id,result
+0,11110000,2021-12-10,70298337,"<Difficulty Level>1</Difficulty Level>
+"
+1,11110000,2021-12-10,70298337,"<Difficulty Level>1</Difficulty Level>
+"
+2,11110000,2021-12-10,70298337,"<Difficulty Level>1</Difficulty Level>
+"
+3,11110000,2021-12-10,70298337,"<Difficulty Level>1</Difficulty Level>
+"
+4,11110000,2021-12-10,70298337,"<Difficulty Level>1</Difficulty Level>
+"
+5,11110000,2021-12-10,70299429,"<Difficulty Level>2</Difficulty Level>
+"
+6,11110000,2021-12-10,70299429,"<Difficulty Level>2</Difficulty Level>
+"
+7,11110000,2021-12-10,70299429,"<Difficulty Level>1</Difficulty Level>
+"
+8,11110000,2021-12-10,70299429,"<Difficulty Level>1</Difficulty Level>
+"
+9,11110000,2021-12-10,70299429,"<Difficulty Level>2</Difficulty Level>
+"
+10,11110000,2021-12-10,70300297,"<Difficulty Level>0</Difficulty Level>
+"
+11,11110000,2021-12-10,70300297,"<Difficulty Level>0</Difficulty Level>
+"
+12,11110000,2021-12-10,70300297,"<Difficulty Level>0</Difficulty Level>
+"
+13,11110000,2021-12-10,70300297,"<Difficulty Level>0</Difficulty Level>
+"
+14,11110000,2021-12-10,70300297,"<Difficulty Level>0</Difficulty Level>
+"
+15,11110000,2021-12-10,70301301,"<Difficulty Level>2</Difficulty Level>
+"
+16,11110000,2021-12-10,70301301,"<Difficulty Level>2</Difficulty Level>
+"
+17,11110000,2021-12-10,70301301,"<Difficulty Level>2</Difficulty Level>
+"
+18,11110000,2021-12-10,70301301,<Difficulty Level>2</Difficulty Level>
+19,11110000,2021-12-10,70301301,"<Difficulty Level>2</Difficulty Level>
+"
+20,11110000,2021-12-10,70302642,"<Difficulty Level>1</Difficulty Level>
+"
+21,11110000,2021-12-10,70302642,"<Difficulty Level>1</Difficulty Level>
+"
+22,11110000,2021-12-10,70302642,"<Difficulty Level>1</Difficulty Level>
+"
+23,11110000,2021-12-10,70302642,"<Difficulty Level>1</Difficulty Level>
+"
+24,11110000,2021-12-10,70302642,"<Difficulty Level>1</Difficulty Level>
+"
+25,11110000,2021-12-10,70302645,"To save a drawing from a Tkinter Canvas to a SQLite database and retrieve it later, you'll need to convert the drawing into an image format that can be stored in the database.
+
+Here's how you can modify your code:
+
+1.  **Save the canvas as an image:**
+
+    *   You can use the `PIL` (Python Imaging Library) module to save the canvas as an image.
+    *   First, install PIL using pip: `pip install pillow`
+    *"
+26,11110000,2021-12-10,70302645,"To save a drawing from a Tkinter Canvas to a SQLite database, you'll need to convert the drawing into an image format that can be stored in the database. One way to do this is to use the `PIL` (Python Imaging Library) module.
+
+Here's an example of how you could modify your code to save the canvas drawing as an image and store it in the database:
+
+```python
+from PIL import Image, ImageGrab
+
+# ...
+
+def add_customer(self):
+    # ..."
+27,11110000,2021-12-10,70302645,"To save a drawing from a Tkinter Canvas to a SQLite database, you'll need to convert the drawing into an image format that can be stored in the database. Here's how you can do it:
+
+1.  **Get the Postscript (PS) representation of the canvas**: You can use the `postscript` method of the Canvas widget to get a PS representation of the drawing.
+
+2.  **Convert the PS data to an image**: Use the PIL library to convert the PS data"
+28,11110000,2021-12-10,70302645,"To save a drawing from a Tkinter Canvas to a SQLite database, you'll need to convert the drawing into an image format that can be stored in the database. Here's how you can do it:
+
+1.  **Get the PostScript representation of the canvas**: You can use the `postscript` method of the Canvas widget to get a PostScript representation of the drawing.
+
+2.  **Convert the PostScript to an image**: Use the Python Imaging Library (PIL) to convert"
+29,11110000,2021-12-10,70302645,"To save a drawing from a Tkinter Canvas to a SQLite database, you'll need to convert the drawing into an image format that can be stored in the database. Here's how you can do it:
+
+1.  **Get the PostScript representation of the canvas**: You can use the `postscript` method of the Canvas widget to get a PostScript representation of the drawing.
+
+2.  **Convert the PostScript to an image**: Use the Python Imaging Library (PIL) to convert"
+30,11110000,2021-12-10,70303354,"<Difficulty Level>0</Difficulty Level>
+"
+31,11110000,2021-12-10,70303354,"<Difficulty Level>0</Difficulty Level>
+"
+32,11110000,2021-12-10,70303354,"<Difficulty Level>0</Difficulty Level>
+"
+33,11110000,2021-12-10,70303354,"<Difficulty Level>0</Difficulty Level>
+"
+34,11110000,2021-12-10,70303354,"<Difficulty Level>0</Difficulty Level>
+"
+35,11110000,2021-12-10,70303473,"<Difficulty Level>1</Difficulty Level>
+"
+36,11110000,2021-12-10,70303473,"<Difficulty Level>1</Difficulty Level>
+"
+37,11110000,2021-12-10,70303473,"<Difficulty Level>1</Difficulty Level>
+"
+38,11110000,2021-12-10,70303473,"<Difficulty Level>1</Difficulty Level>
+"
+39,11110000,2021-12-10,70303473,<Difficulty Level>2</Difficulty Level>
+40,11110000,2021-12-10,70303569,"<Difficulty Level>1</Difficulty Level>
+"
+41,11110000,2021-12-10,70303569,"<Difficulty Level>1</Difficulty Level>
+"
+42,11110000,2021-12-10,70303569,"<Difficulty Level>1</Difficulty Level>
+"
+43,11110000,2021-12-10,70303569,"<Difficulty Level>1</Difficulty Level>
+"
+44,11110000,2021-12-10,70303569,"<Difficulty Level>1</Difficulty Level>
+"
+45,11110000,2021-12-10,70303725,"<Difficulty Level>1</Difficulty Level>
+"
+46,11110000,2021-12-10,70303725,"<Difficulty Level>1</Difficulty Level>
+"
+47,11110000,2021-12-10,70303725,"<Difficulty Level>1</Difficulty Level>
+"
+48,11110000,2021-12-10,70303725,"<Difficulty Level>1</Difficulty Level>
+"
+49,11110000,2021-12-10,70303725,"<Difficulty Level>1</Difficulty Level>
+"
+50,11110000,2021-12-10,70304368,"<Difficulty Level>0</Difficulty Level>
+"
+51,11110000,2021-12-10,70304368,"<Difficulty Level>1</Difficulty Level>
+"
+52,11110000,2021-12-10,70304368,"<Difficulty Level>1</Difficulty Level>
+"
+53,11110000,2021-12-10,70304368,"<Difficulty Level>1</Difficulty Level>
+"
+54,11110000,2021-12-10,70304368,"<Difficulty Level>0</Difficulty Level>
+"
+55,11110000,2021-12-10,70305143,"<Difficulty Level>1</Difficulty Level>
+"
+56,11110000,2021-12-10,70305143,"<Difficulty Level>1</Difficulty Level>
+"
+57,11110000,2021-12-10,70305143,"<Difficulty Level>1</Difficulty Level>
+"
+58,11110000,2021-12-10,70305143,"<Difficulty Level>1</Difficulty Level>
+"
+59,11110000,2021-12-10,70305143,"<Difficulty Level>1</Difficulty Level>
+"
+60,11110000,2021-12-10,70305170,"<Difficulty Level>1</Difficulty Level>
+"
+61,11110000,2021-12-10,70305170,"<Difficulty Level>1</Difficulty Level>
+"
+62,11110000,2021-12-10,70305170,"<Difficulty Level>1</Difficulty Level>
+"
+63,11110000,2021-12-10,70305170,"<Difficulty Level>1</Difficulty Level>
+"
+64,11110000,2021-12-10,70305170,"<Difficulty Level>0</Difficulty Level>
+"
+65,11110000,2021-12-10,70305368,"<Difficulty Level>1</Difficulty Level>
+"
+66,11110000,2021-12-10,70305368,"<Difficulty Level>0</Difficulty Level>
+"
+67,11110000,2021-12-10,70305368,"<Difficulty Level>1</Difficulty Level>
+"
+68,11110000,2021-12-10,70305368,"<Difficulty Level>1</Difficulty Level>
+"
+69,11110000,2021-12-10,70305368,"<Difficulty Level>1</Difficulty Level>
+"
+70,11110000,2021-12-10,70305965,"<Difficulty Level>0</Difficulty Level>
+"
+71,11110000,2021-12-10,70305965,"<Difficulty Level>0</Difficulty Level>
+"
+72,11110000,2021-12-10,70305965,"<Difficulty Level>0</Difficulty Level>
+"
+73,11110000,2021-12-10,70305965,"<Difficulty Level>0</Difficulty Level>
+"
+74,11110000,2021-12-10,70305965,"<Difficulty Level>0</Difficulty Level>
+"
+75,11110000,2021-12-10,70306172,"<Difficulty Level>1</Difficulty Level>
+"
+76,11110000,2021-12-10,70306172,"<Difficulty Level>1</Difficulty Level>
+"
+77,11110000,2021-12-10,70306172,"<Difficulty Level>1</Difficulty Level>
+"
+78,11110000,2021-12-10,70306172,"<Difficulty Level>1</Difficulty Level>
+"
+79,11110000,2021-12-10,70306172,"<Difficulty Level>1</Difficulty Level>
+"
+80,11110000,2021-12-10,70306436,"<Difficulty Level>1</Difficulty Level>
+"
+81,11110000,2021-12-10,70306436,"<Difficulty Level>1</Difficulty Level>
+"
+82,11110000,2021-12-10,70306436,<Difficulty Level>1</Difficulty Level>
+83,11110000,2021-12-10,70306436,"<Difficulty Level>1</Difficulty Level>
+"
+84,11110000,2021-12-10,70306436,"<Difficulty Level>1</Difficulty Level>
+"
+85,11110000,2021-12-10,70306618,"<Difficulty Level>1</Difficulty Level>
+"
+86,11110000,2021-12-10,70306618,"<Difficulty Level>2</Difficulty Level>
+"
+87,11110000,2021-12-10,70306618,"<Difficulty Level>2</Difficulty Level>
+"
+88,11110000,2021-12-10,70306618,"<Difficulty Level>1</Difficulty Level>
+"
+89,11110000,2021-12-10,70306618,"<Difficulty Level>1</Difficulty Level>
+"
+90,11110000,2021-12-10,70307045,"<Difficulty Level>0</Difficulty Level>
+"
+91,11110000,2021-12-10,70307045,"<Difficulty Level>0</Difficulty Level>
+"
+92,11110000,2021-12-10,70307045,"<Difficulty Level>0</Difficulty Level>
+"
+93,11110000,2021-12-10,70307045,"<Difficulty Level>0</Difficulty Level>
+"
+94,11110000,2021-12-10,70307045,"<Difficulty Level>0</Difficulty Level>
+"
+95,11110000,2021-12-10,70307161,<Difficulty Level>2</Difficulty Level
+96,11110000,2021-12-10,70307161,<Difficulty Level>2</Difficulty Level
+97,11110000,2021-12-10,70307161,<Difficulty Level>2</Difficulty Level
+98,11110000,2021-12-10,70307161,<Difficulty Level>2</Difficulty Level
+99,11110000,2021-12-10,70307161,<Difficulty Level>2</Difficulty Level
+100,11110000,2021-12-10,70307365,
+101,11110000,2021-12-10,70307365,"<Difficulty Level>2</Difficulty Level>
+"
+102,11110000,2021-12-10,70307365,"<Difficulty Level>2</Difficulty Level>
+"
+103,11110000,2021-12-10,70307365,"<Difficulty Level>2</Difficulty Level>
+"
+104,11110000,2021-12-10,70307365,
+105,11110000,2021-12-10,70307652,"<Difficulty Level>1</Difficulty Level>
+"
+106,11110000,2021-12-10,70307652,"<Difficulty Level>1</Difficulty Level>
+"
+107,11110000,2021-12-10,70307652,"<Difficulty Level>1</Difficulty Level>
+"
+108,11110000,2021-12-10,70307652,"<Difficulty Level>1</Difficulty Level>
+"
+109,11110000,2021-12-10,70307652,"<Difficulty Level>1</Difficulty Level>
+"
+110,11110000,2021-12-10,70307961,"<Difficulty Level>1</Difficulty Level>
+"
+111,11110000,2021-12-10,70307961,"<Difficulty Level>2</Difficulty Level>
+"
+112,11110000,2021-12-10,70307961,"<Difficulty Level>1</Difficulty Level>
+"
+113,11110000,2021-12-10,70307961,"<Difficulty Level>1</Difficulty Level>
+"
+114,11110000,2021-12-10,70307961,"<Difficulty Level>2</Difficulty Level>
+"
+115,11110000,2021-12-10,70308062,"<Difficulty Level>1</Difficulty Level>
+"
+116,11110000,2021-12-10,70308062,"<Difficulty Level>1</Difficulty Level>
+"
+117,11110000,2021-12-10,70308062,"<Difficulty Level>1</Difficulty Level>
+"
+118,11110000,2021-12-10,70308062,"<Difficulty Level>1</Difficulty Level>
+"
+119,11110000,2021-12-10,70308062,"<Difficulty Level>1</Difficulty Level>
+"
+120,11110000,2021-12-10,70308822,"<Difficulty Level>0</Difficulty Level>
+"
+121,11110000,2021-12-10,70308822,"<Difficulty Level>0</Difficulty Level>
+"
+122,11110000,2021-12-10,70308822,"<Difficulty Level>0</Difficulty Level>
+"
+123,11110000,2021-12-10,70308822,"<Difficulty Level>0</Difficulty Level>
+"
+124,11110000,2021-12-10,70308822,"<Difficulty Level>0</Difficulty Level>
+"
+125,11110000,2021-12-10,70309125,"<Difficulty Level>1</Difficulty Level>
+"
+126,11110000,2021-12-10,70309125,"<Difficulty Level>1</Difficulty Level>
+"
+127,11110000,2021-12-10,70309125,"<Difficulty Level>1</Difficulty Level>
+"
+128,11110000,2021-12-10,70309125,"<Difficulty Level>1</Difficulty Level>
+"
+129,11110000,2021-12-10,70309125,"<Difficulty Level>1</Difficulty Level>
+"
+130,11110000,2021-12-10,70309238,"<Difficulty Level>1</Difficulty Level>
+"
+131,11110000,2021-12-10,70309238,"<Difficulty Level>1</Difficulty Level>
+"
+132,11110000,2021-12-10,70309238,"<Difficulty Level>1</Difficulty Level>
+"
+133,11110000,2021-12-10,70309238,"<Difficulty Level>1</Difficulty Level>
+"
+134,11110000,2021-12-10,70309238,"<Difficulty Level>1</Difficulty Level>
+"
+135,11110000,2021-12-10,70309987,"<Difficulty Level>1</Difficulty Level>
+"
+136,11110000,2021-12-10,70309987,"<Difficulty Level>1</Difficulty Level>
+"
+137,11110000,2021-12-10,70309987,"<Difficulty Level>1</Difficulty Level>
+"
+138,11110000,2021-12-10,70309987,"<Difficulty Level>1</Difficulty Level>
+"
+139,11110000,2021-12-10,70309987,"<Difficulty Level>1</Difficulty Level>
+"
+140,11110000,2021-12-10,70310224,"<Difficulty Level>1</Difficulty Level>
+"
+141,11110000,2021-12-10,70310224,"<Difficulty Level>1</Difficulty Level>
+"
+142,11110000,2021-12-10,70310224,"<Difficulty Level>1</Difficulty Level>
+"
+143,11110000,2021-12-10,70310224,"<Difficulty Level>1</Difficulty Level>
+"
+144,11110000,2021-12-10,70310224,"<Difficulty Level>1</Difficulty Level>
+"
+145,11110000,2021-12-10,70311167,"<Difficulty Level>2</Difficulty Level>
+"
+146,11110000,2021-12-10,70311167,"Let's break down the question and analyze its components to determine the appropriate difficulty level.
+
+1. **Context**: The question involves implementing Superset with Keycloak for authentication, which is a specific use case that requires knowledge of both technologies.
+2. **Technical requirements**: The user has already set up the login part using OpenID Connect, but is struggling with redirecting logged-out users to the login page. This indicates that the issue is not trivial and requires some understanding of how Superset and Keycloak"
+147,11110000,2021-12-10,70311167,"<Difficulty Level>2</Difficulty Level>
+"
+148,11110000,2021-12-10,70311167,"<Difficulty Level>2</Difficulty Level>
+"
+149,11110000,2021-12-10,70311167,"<Difficulty Level>2</Difficulty Level>
+"

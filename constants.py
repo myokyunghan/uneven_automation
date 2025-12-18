@@ -48,3 +48,7 @@ class CONSTANTS:
     data_availability_dir='../../visualization'
 
     data_dir = '/usr/share/d_ollama/data/' 
+
+    ######################submission option below
+    s_llm_result_path = '../data/difficulty/q_diff'
+    s_com_result_path = '../data/difficulty/c_diff'
