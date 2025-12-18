@@ -46,3 +46,5 @@ class CONSTANTS:
     }
 
     data_availability_dir='../../visualization'
+
+    data_dir = '/usr/share/d_ollama/data/' 
