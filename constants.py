@@ -45,4 +45,4 @@ class CONSTANTS:
                 'vba':'vba'
     }
 
-    output_dir='../../visualization'
+    data_availability_dir='../../visualization'
