@@ -13,7 +13,7 @@ Stack Overflow questions as a proxy, based on publicly available archival data.
 https://archive.org/details/stackexchange
 
 * Due to the large size of the dataset, the raw data are **not hosted in this repository**.
-Instead, this repository provides scripts for downloading, preprocessing, and analyzing
+Instead, this repository provides scripts for analyzing
 the data.
 
 * The analyses are based on the Stack Exchange Data Dump released on **December 3, 2023**.
