@@ -4,6 +4,7 @@
 The study examines the impact of AI on software engineering tasks by using
 Stack Overflow questions as a proxy, based on publicly available archival data.
 
+
 ---
 
 ## Data Availability
