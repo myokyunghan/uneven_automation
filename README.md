@@ -130,6 +130,11 @@ No additional decoding or sampling parameters were used.
 * Each notebook is self-contained and can be executed cell by cell using the
   processed datasets included in this repository.
 
+---
+
+## License
+This project is released under the MIT License.
+
 
 
 
