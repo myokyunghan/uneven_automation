@@ -54,3 +54,6 @@ class CONSTANTS:
     s_com_result_path = '../data/difficulty/c_diff'
     s_bert_result_path = '../data/data_availability/BERTopic'
     s_tag_result_path = '../data/data_availability/tag'
+    s_diff_da_result_path = '../data/diff_da/'
+    s_salary_result_path = '../data/salary/'
+    s_tag_info_path = '../data/tag_info/'
