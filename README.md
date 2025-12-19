@@ -34,13 +34,14 @@ Due to the large size of the Stack Exchange Data Dump, the raw data are not redi
 ├── requirements.txt           # Python dependencies
 └── README.md
 ```
+---
 
 ## Software and Code Documentation
 
-### 1. System requirements
+### System requirements
 
 ### Operating system
-The code has been tested on the following operating systems:
+ *The code has been tested on the following operating systems:
 - Ubuntu 22.04 LTS
 
 ### Software dependencies
@@ -49,17 +50,33 @@ The code has been tested on the following operating systems:
 
 ### Computational Environment
 
-Large language model inference used to annotate the difficulty of Stack Overflow questions was conducted on a multi-GPU workstation with the following specifications:
+* Large language model inference used to annotate the difficulty of Stack Overflow questions was conducted on a multi-GPU workstation with the following specifications:
 
 - GPU: NVIDIA RTX A5000 (24 GB VRAM) × 4
 - CUDA version: 12.9
 - NVIDIA driver version: 575.57.08
 
-Equivalent GPU configurations with comparable memory capacity are sufficient to reproduce the analyses.
+* Equivalent GPU configurations with comparable memory capacity are sufficient to reproduce the analyses.
 
 ---
 
-## 2. Installation guide
+## Large Language Model Configuration
+
+* Large language models are used to measure task difficulty and related constructs.
+
+- Model: LLaMA 3.1 70B Instruct
+- Inference framework: ollama
+- Decoding parameters:
+  - Temperature: 0.01
+  - Maximum number of generated tokens (`num_predict`): 100
+  - Context length (`num_ctx`): 4096
+  - Stop tokens: `<s>`, `</s>`
+
+No additional decoding or sampling parameters were used.
+
+---
+
+## Installation guide
 
 ### Instructions
 1. Clone the repository:
@@ -95,10 +112,28 @@ Equivalent GPU configurations with comparable memory capacity are sufficient to 
    ```
    * Installation typically takes approximately 10-15 minutes on a standard desktop comuter, excluding GPU driver and CUDA installation.
 
+---
 
-## 3. Demo
-Due to the size of the full Stack Exchange Data Dump, we uploaded dataset for replicate the figure in the manuscript
-See 'submission', then you can replicate with out constructed data
+## Execution Guide
+* All figures and tables reported in the manuscript can be reproduced using the
+  processed data provided in this repository.
+* To improve transparency and reproducibility, the analysis and visualization
+  pipelines are provided as **Jupyter notebooks (`.ipynb`)** in the `submission/`
+  directory.
+* These notebooks contain executable code, intermediate outputs, and inline
+  documentation, allowing readers to inspect and reproduce each step of the
+  analysis interactively.
+
+**Examples:**
+- `submission/C_Result_Fig1.ipynb`
+- `submission/C_Result_Fig2_1.ipynb`
+- `submission/C_Result_Fig2_2.ipynb`  
+  (The results from `C_Result_Fig2_1.ipynb` and `C_Result_Fig2_2.ipynb` are combined
+  for ease of interpretation.)
+
+* Each notebook is self-contained and can be executed cell by cell using the
+  processed datasets included in this repository.
+
 
 
 
