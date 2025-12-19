@@ -41,21 +41,18 @@ Due to the large size of the Stack Exchange Data Dump, the raw data are not redi
 ### System requirements
 
 ### Operating system
- *The code has been tested on the following operating systems:
-- Ubuntu 22.04 LTS
+ * The code has been tested on the following operating systems:
+  - Ubuntu 22.04 LTS
 
 ### Software dependencies
 * Python 3.10.12
 * Required Python packages are listed in `requirements.txt`
 
 ### Computational Environment
-
 * Large language model inference used to annotate the difficulty of Stack Overflow questions was conducted on a multi-GPU workstation with the following specifications:
-
-- GPU: NVIDIA RTX A5000 (24 GB VRAM) × 4
-- CUDA version: 12.9
-- NVIDIA driver version: 575.57.08
-
+  - GPU: NVIDIA RTX A5000 (24 GB VRAM) × 4
+  - CUDA version: 12.9
+  - NVIDIA driver version: 575.57.08
 * Equivalent GPU configurations with comparable memory capacity are sufficient to reproduce the analyses.
 
 ---
@@ -63,14 +60,13 @@ Due to the large size of the Stack Exchange Data Dump, the raw data are not redi
 ## Large Language Model Configuration
 
 * Large language models are used to measure task difficulty and related constructs.
-
-- Model: LLaMA 3.1 70B Instruct
-- Inference framework: ollama
-- Decoding parameters:
-  - Temperature: 0.01
-  - Maximum number of generated tokens (`num_predict`): 100
-  - Context length (`num_ctx`): 4096
-  - Stop tokens: `<s>`, `</s>`
+  - Model: LLaMA 3.1 70B Instruct
+  - Inference framework: ollama
+  - Decoding parameters:
+    - Temperature: 0.01
+    - Maximum number of generated tokens (`num_predict`): 100
+    - Context length (`num_ctx`): 4096
+    - Stop tokens: `<s>`, `</s>`
 
 No additional decoding or sampling parameters were used.
 
