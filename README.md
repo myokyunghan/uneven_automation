@@ -9,7 +9,7 @@ Stack Overflow questions as a proxy, based on publicly available archival data.
 ## Data Availability
 **Raw Data**
 * The raw data analyzed in this study are publicly available from the Stack Exchange
-   * Data Dump: [https://archive.org/details/stackexchange]
+   * Data Dump: [Stack Exchange](https://archive.org/details/stackexchange)
    * Release used in this study: December 3, 2023
 Due to the large size of the Stack Exchange Data Dump, the raw data are not redistributed in this repository.
 
