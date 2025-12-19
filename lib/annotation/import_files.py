@@ -34,12 +34,6 @@ from config import config as conf
 
 
 import warnings
-import langchain
-from langchain_ollama.llms import OllamaLLM
-from langchain_core.prompts.few_shot import FewShotPromptTemplate
-from langchain_core.prompts import PromptTemplate
-from langchain_core.output_parsers import StrOutputParser
-from langchain_core.prompts import ChatPromptTemplate
 import pandas as pd
 import numpy as np
 from tqdm import tqdm
@@ -48,13 +42,11 @@ from ollama import chat
 from openai import OpenAI
 
 warnings.filterwarnings("ignore", category=DeprecationWarning)
-# https://wikidocs.net/233348
 from itertools import chain
 
 import pickle
 import json
 
-from lib.annotation.VLLM import *
 from lib.annotation.prompt import *
 from lib.annotation.param import *
 from lib.annotation.sequence import *
@@ -68,6 +60,8 @@ import lib.annotation.Self_Consistency as sc
 import lib.annotation.Sample_Insert as si
 import lib.annotation.Q_Extract as qe
 import lib.annotation.SampleSelf_Consistency as ssc
+
+from constants import CONSTANTS
 
 
 

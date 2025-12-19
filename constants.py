@@ -52,3 +52,5 @@ class CONSTANTS:
     ######################submission option below
     s_llm_result_path = '../data/difficulty/q_diff'
     s_com_result_path = '../data/difficulty/c_diff'
+    s_bert_result_path = '../data/data_availability/BERTopic'
+    s_tag_result_path = '../data/data_availability/tag'

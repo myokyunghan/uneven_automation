@@ -3,7 +3,7 @@ from lib.annotation.import_files import *
 class Result_Prep: 
     
     def make_one_file(self, ver):
-        path = f'/home/mghan/sopjt/git/stackoverflow_src/LLM/result/{ver}'
+        path = f'{CONSTANTS.s_llm_result_path}/{ver}'
         file_list = os.listdir(path)
         df = pd.DataFrame()
         if len(file_list)>0 : 

@@ -1,5 +1,5 @@
 from lib.annotation.import_files import *
-from lib.annotation.VLLM import VLLM
+# from lib.annotation.VLLM import VLLM
 # https://github.com/meta-llama/llama-recipes/blob/main/recipes/quickstart/Prompt_Engineering_with_Llama_3.ipynb
 class Self_Consistency:
     def __init__(self, llm_model, few_shot_n, test_n, q_src_yn, ver, p_ver, sf_num, temperature, excel_ver, i):  
